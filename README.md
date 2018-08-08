@@ -1,2 +1,3 @@
 # Webpage
-るぴおのWebsite
+るぴおのWebpageです。
+なんだかんだめんどくさいからGithubにファイル置くのが一番！
