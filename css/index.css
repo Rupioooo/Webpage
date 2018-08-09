@@ -20,6 +20,7 @@ body {
 }
 .header-navi {
   float: left;
+  font-family: "Nico Moji";
 }
 .header-navi li {
   float: left;
